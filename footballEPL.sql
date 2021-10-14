@@ -1,6 +1,6 @@
 use football
 
--- union with between the tables
+-- union between the tables
 SELECT * FROM dbo.pl20_21
 UNION ALL 
 SELECT * FROM dbo.pl19_20
